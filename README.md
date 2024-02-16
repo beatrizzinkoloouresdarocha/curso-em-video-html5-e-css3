@@ -1,2 +1,1 @@
-git add README.md
-git commit -m "Adiciona arquivo README com informações sobre o curso da Uninter. Este é o meu novo arquivo que criei para começar a fazer as atividades práticas da Uninter, incluindo todas as informações relevantes do curso."
+repositório do curso da uninter da graduação analise e desenvolvimento  de sistemas 
